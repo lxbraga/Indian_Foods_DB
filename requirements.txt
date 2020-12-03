@@ -1,0 +1,7 @@
+sqlalchemy
+pandas
+networkx
+numpy
+pyvis
+matplotlib
+sqlite3
